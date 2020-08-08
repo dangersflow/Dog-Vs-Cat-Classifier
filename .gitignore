@@ -3,7 +3,7 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.pickle
+*.pickle
 
 # IPython
 profile_default/
